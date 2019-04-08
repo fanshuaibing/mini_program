@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/audio/audio"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "番茄闹钟",
+    "navigationBarTextStyle": "black"
+  }
+}

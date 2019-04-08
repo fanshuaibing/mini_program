@@ -1,0 +1,13 @@
+.wrapper{
+  height: 200rpx;
+  background: #999;
+  width: 100%;
+  position: relative;
+}
+.audio{
+  position: absolute;
+  left: 50%;
+  
+  transform: translateX(-50%);
+  border: 4rpx solid red;
+}

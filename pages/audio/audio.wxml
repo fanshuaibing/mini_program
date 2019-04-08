@@ -1,0 +1,3 @@
+
+<view bindtap='bbb' wx:if="{{status}}">关闭</view>
+<view bindtap='aaa' wx:if='{{!status}}' >开始</view>
